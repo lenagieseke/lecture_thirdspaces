@@ -63,39 +63,17 @@ Therefore, translation is not neutral.
 Pipeline design for computational translation is **world-building**, not just engineering and it is not a neural act.
 
 
+
 ---
 layout:false
 
-## Who am I?
+## Introduction
 
---
+* [Lena Gieseke ⬀](https://www.lenagieseke.com/)
+* [Film University Babelsberg KONRAD WOLF ⬀](https://www.filmuniversitaet.de/), Potsdam, Germany
+* [MA Creative Technologies ⬀](https://www.filmuniversitaet.de/en/studies/study-programs/master-programs/creative-technologies) (Instagram: [ctech.filmuniversity ⬀](https://www.instagram.com/ctech.filmuniversity/))
 
-* Master in Fine Art (MFA Dramatic Media)
-* Phd in Computer Science (Dr. rer. nat. Computer Graphics)
-
---
-
-<br />
-
-* Film University Babelsberg KONRAD WOLF, Potsdam, Germany
-* Professor for Image-based Media Technologies
-
---
-
-* MA Creative Technologies
-
---
 > Computer Science meets Creativity, Art & Film...
-
----
-.header[MA Creative Technologies]
-
-.center[<img src="./img/qr_filmunictech.png" alt="qr_filmunictech" style="width:45%;">]
-
----
-.header[MA Creative Technologies]
-
-.center[<img src="./img/qr_filmuniinsta.png" alt="qr_filmuniinsta" style="width:45%;">]
 
 ---
 template:inverse
@@ -731,7 +709,7 @@ Optical mocap sees the body from outside. Inertial mocap feels the body from ins
 
 .center[
  <video width="1060" controls>
-  <source src="./img/majorlazer_01.mp4" type="video/mp4">
+  <source src="./img/majorlazer_01.webm" type="video/mp4">
 </video> 
 ]
 
@@ -1035,7 +1013,7 @@ So the ontology changes: person → motion agent.
 
 .center[
  <video width="960" controls>
-  <source src="./img/bodypaint_01.mp4" type="video/mp4">
+  <source src="./img/bodypaint_01.webm" type="video/mp4">
 </video> 
 
 ]
@@ -1231,7 +1209,7 @@ In this configuration, data performs the role gesture previously held: it become
 
 .center[
  <video width="960" controls>
-  <source src="./img/machineHallucinations_02.mp4" type="video/mp4">
+  <source src="./img/machineHallucinations_02.webm" type="video/mp4">
 </video> 
 
 ]
@@ -1555,7 +1533,7 @@ but less behaviorally emergent and less tightly conceptually bound.
 
 .center[
  <video width="960" controls muted>
-  <source src="./img/superradiance_01.mp4" type="video/mp4">
+  <source src="./img/superradiance_01.webm" type="video/mp4">
 </video> 
 ]
 .footnote[[Superradiance](https://superradiance.net/)]
@@ -1632,7 +1610,7 @@ Memo Akten and Katie Hofstadter, 2025:
 
 .center[
  <video width="960" controls>
-  <source src="./img/superradiance_makingof_cutout_01.mp4" type="video/mp4">
+  <source src="./img/superradiance_makingof_cutout_01.webm" type="video/mp4">
 </video> 
 ]
 
@@ -1775,7 +1753,7 @@ This is not autonomous emergence, but authored emergence: rule-like behavior tha
 
 .center[
  <video width="960" controls>
-  <source src="./img/superradiance_01.mp4#t=97" type="video/mp4">
+  <source src="./img/superradiance_01.webm#t=97" type="video/mp4">
 </video> 
 ]
 .footnote[[Superradiance](https://superradiance.net/)]
@@ -1951,7 +1929,7 @@ That is world building in a literal sense.
 ---
 template:inverse
 
-### *If we are building worlds, what does that oblige us to?*
+### *If we are building worlds, which responsibilities do we have?*
 
 ???
 
