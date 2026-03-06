@@ -1956,10 +1956,6 @@ The question is whether we do it deliberately.
 ---
 template:inverse 
 
-.center[
-<img src="./img/qr_lecturethirdspaces.png" style="width:20%;">
-]
-
 
 # *The End*
 
